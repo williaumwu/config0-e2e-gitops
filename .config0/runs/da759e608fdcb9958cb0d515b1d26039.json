@@ -1,0 +1,6 @@
+{
+  "action": "apply",
+  "pipeline": "gitops-hub",
+  "pipeline_run_id": "da759e608fdcb9958cb0d515b1d26039",
+  "pipeline_sha256": "bfd8df4d468b3525f8ef1ca0b47c5841a852090be7b0afda7deaf4cce64176e2"
+}
