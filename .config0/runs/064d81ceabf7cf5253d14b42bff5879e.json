@@ -1,0 +1,6 @@
+{
+  "action": "destroy",
+  "pipeline": "gitops-hub",
+  "pipeline_run_id": "064d81ceabf7cf5253d14b42bff5879e",
+  "pipeline_sha256": "bfd8df4d468b3525f8ef1ca0b47c5841a852090be7b0afda7deaf4cce64176e2"
+}
