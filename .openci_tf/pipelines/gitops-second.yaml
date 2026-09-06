@@ -1,0 +1,4 @@
+steps:
+- folder: gitops-second-604227045267/604227045267/ap-northeast-1/gitops-second/vpc/vpc_simple/278a42ba573f3eae
+- folder: gitops-second-604227045267/604227045267/ap-northeast-1/gitops-second/vpc/sg_3tier/8851d55776ce102c
+- folder: gitops-second-604227045267/604227045267/ap-northeast-1/gitops-second/bucket/buckets/3cc265e8ef599a80
