@@ -1,0 +1,7 @@
+{
+  "action": "destroy",
+  "payload_commit": "bf81aa3b34c77d21f1cb8971905f19f678f5111c",
+  "pipeline": "gitops-hub",
+  "pipeline_run_id": "df84e109e528b8af451926868b5584ab",
+  "pipeline_sha256": "32c62810ce643f4c0f3bc1514649c8b8981057b30ab06525647bad62629ea327"
+}
