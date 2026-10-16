@@ -1,0 +1,7 @@
+{
+  "action": "apply",
+  "base_commit": "07a2f0b2c26d4efaae98de576fe18a8325338b34",
+  "pipeline": "gitops-hub",
+  "pipeline_run_id": "672daa76a757bfb858a833c3a0ff692f",
+  "pipeline_sha256": "32c62810ce643f4c0f3bc1514649c8b8981057b30ab06525647bad62629ea327"
+}
